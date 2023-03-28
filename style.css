@@ -1,0 +1,113 @@
+html{
+    scroll-behavior: smooth;
+    scroll-padding-top: 100px;
+}
+
+header .stmi{font-size: x-large;
+text-align: center;
+background-color: gray;}
+
+.header{
+text-align: center;
+width: 100%;
+height: 100px;
+background-position: center;
+position: fixed;
+   top: 0;
+   display: flex;
+   align-items: center;
+   background: rgba(255, 220, 20, 0.651);
+   text-decoration: none
+}
+
+.kti{
+    scroll-margin-top: 100px;
+}
+
+main{
+text-align: center;
+font-size: xx-large
+}
+
+.zn{
+  margin-top:100px;
+}
+
+nav{
+    text-align: center;
+    width: 100%;
+}
+
+nav ul{
+    margin: 0 0 0 auto;
+    
+
+}
+
+nav ul li{
+    display: inline-block;
+     list-style :none;
+     margin: 5px 30px;
+    
+} 
+
+ body {
+    margin: 0;
+    padding: 0;
+    background-color: #e6e6e6;
+    scroll-margin-top: 100px;
+    text-align: center;
+    
+ }
+
+aside{
+    background: gray;
+    font-size: xx-large;
+}
+
+main{
+    background-color: gray;
+}
+
+
+    
+
+body{background-color: rgba(0, 0, 0, 0.671);}
+.inpg{text-align: center;
+    border-radius: 50px;}
+.g{text-align: center;
+   font-size: xx-large;}
+
+.inpm{text-align: center;
+      border-radius: 50px;}
+.m{text-align: center;
+   font-size: xx-large;}
+.inpe{text-align: center;
+    border-radius: 50px;}
+.e{text-align: center;
+ font-size: xx-large;}
+
+.inpd{text-align: center;
+    border-radius: 50px;}
+.d{text-align: center;
+ font-size: xx-large;}
+
+ .inpgi{text-align: center;
+    border-radius: 50px;}
+.gi{text-align: center;
+ font-size: xx-large;}
+
+ .inpdog{text-align: center;
+    border-radius: 50px;}
+.dog{text-align: center;
+ font-size: xx-large;}
+
+ .inph{text-align: center;
+    border-radius: 50px;}
+.h{text-align: center;
+ font-size: xx-large;}
+
+ .inpa{text-align: center;
+    border-radius: 50px;}
+.a{text-align: center;
+ font-size: xx-large;}
